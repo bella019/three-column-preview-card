@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/bella019/three-column-preview-card
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://bella019.github.io/three-column-preview-card/
 
 ## My process
 
@@ -44,6 +44,7 @@ Users should be able to:
 
 ### What I learned
 Using Css Flexbox
+
 .flex-container{
     display: flex;
     margin-top: 5rem;
